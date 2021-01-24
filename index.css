@@ -1,0 +1,55 @@
+.body-wrapper{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: -10px;
+    
+}
+
+.header{
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    height: 130px;
+    background: black;
+}
+.header h1{
+    padding-top: 2%;
+    color: white;
+    text-align: center;
+    
+}
+
+.body{
+    width: 102%;
+    
+    padding-top: 140px;
+    margin: 0 auto;
+    
+}
+
+.material-container{
+    display: block;
+    
+    max-width: 400px;
+    text-align: center;
+    padding-top: 1%;
+    width: 80%;
+    height: 10%;
+    margin: 0 auto;
+}
+.material-container img{
+    width: 100%;
+}
+.material-container button{
+    width: 70%;
+    border: none;
+    font-size: 150%;
+    margin-top: 5%;
+    background: black;
+    color: white;
+}
+
+.material-container .description{
+    display: none;
+    margin: 10px;
+}
