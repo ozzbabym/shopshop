@@ -58,6 +58,7 @@ body{
     background: black;
     color: white;
     transition: 1s;
+    border-radius: 10px;
 }
 
 .material-container button:hover{
